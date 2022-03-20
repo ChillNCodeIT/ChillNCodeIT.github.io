@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ChillNCodeIT.github.io/static/css/main.532c26bf.css",
+    "main.js": "/ChillNCodeIT.github.io/static/js/main.0962b5b0.js",
+    "static/media/white_cup.png": "/ChillNCodeIT.github.io/static/media/white_cup.a8616c1e56a06dcdc213.png",
+    "index.html": "/ChillNCodeIT.github.io/index.html",
+    "main.532c26bf.css.map": "/ChillNCodeIT.github.io/static/css/main.532c26bf.css.map",
+    "main.0962b5b0.js.map": "/ChillNCodeIT.github.io/static/js/main.0962b5b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.532c26bf.css",
+    "static/js/main.0962b5b0.js"
+  ]
+}
