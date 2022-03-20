@@ -1,4 +1,4 @@
-import ComingSoon from "./Components/ComingSoon";
+import ComingSoon from "./Components/ComingSoon/ComingSoon";
 
 function App() {
   return (
